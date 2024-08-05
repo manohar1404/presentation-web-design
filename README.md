@@ -2,9 +2,9 @@
 
 ---
 
-# Presentation Web Design
+# TIMELESS WATCH WEBSITE 
 
-Welcome to the Presentation Web Design website! This project showcases a simple, elegant web design intended for presentations.
+Welcome to the Timeless Treasures! This project showcases a simple, elegant,and a responsive  web design.
 
 ## Features
 
